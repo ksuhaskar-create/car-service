@@ -28,11 +28,9 @@
 Обоснование нормализации: Я разделила данные на три таблицы, чтобы не повторялась одна и та же информация. В таблице cars хранятся машины, в service_records — записи об обслуживании, а в parts — запчасти. Таблицы связаны между собой с помощью внешних ключей.
 
 ## 5. Макеты интерфейса
-в файлах 1. https://github.com/ksuhaskar-create/car-service/blob/main/%D0%B3%D0%BB%D0%B0%D0%B2%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD.png
-
-2. https://github.com/ksuhaskar-create/car-service/blob/main/2%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD.png
-
-3. https://github.com/ksuhaskar-create/car-service/blob/main/3%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD.png
+в файлах 1. [Главный экран](https://github.com/ksuhaskar-create/car-service/blob/main/%D0%B3%D0%BB%D0%B0%D0%B2%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD.png)
+2. [Добавление ТО](https://github.com/ksuhaskar-create/car-service/blob/main/2%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD.png)
+3. [Напоминания](https://github.com/ksuhaskar-create/car-service/blob/main/3%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD.png)
 
 ## 6. Сценарии использования (Use Cases)
 
