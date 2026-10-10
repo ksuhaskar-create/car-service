@@ -32,7 +32,8 @@
 
 2. https://github.com/ksuhaskar-create/car-service/blob/main/2%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD.png
 
-3. 
+3. https://github.com/ksuhaskar-create/car-service/blob/main/3%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD.png
+
 ## 6. Сценарии использования (Use Cases)
 
 ### Сценарий 1. Добавление записи об обслуживании
