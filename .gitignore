@@ -1,0 +1,15 @@
+# База данных с личными записями и её копии
+*.db
+*.db-journal
+backups/
+broken/
+
+# Старые и черновые файлы
+old/
+*_recovered*.sql
+index.html
+
+# Служебные файлы Python и редактора
+__pycache__/
+*.pyc
+.vscode/
