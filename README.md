@@ -23,7 +23,7 @@ Python, Flask, SQLite (модуль `sqlite3`), HTML и CSS.
 3. Установите Python 3.10 или новее, если он ещё не установлен.
 4. Откройте распакованную папку car-service-main.
 5. Установите необходимые библиотеки. Для этого откройте терминал в папке проекта и выполните команду:
-6. python -m pip install -r requirements.txt
+ python -m pip install -r requirements.txt
 
 Запустите сайт одним из способов:
 
